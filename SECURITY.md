@@ -14,7 +14,7 @@ d) Low: Vulnerabilities with minimal impact on the platform, such as user interf
 ## Reporting Guidelines
 When reporting a vulnerability, please follow these guidelines:
 
-a) Make it private: Please do not publicly disclose the vulnerability or share any sensitive information about it with others. Instead, send your report to our security team via our dedicated email address: security@joyspot.com.
+a) Make it private: Please do not publicly disclose the vulnerability or share any sensitive information about it with others. Instead, send your report to our security team via our security github repo.
 
 b) Software details: Clearly specify the software, version, and configuration where the vulnerability is present. If possible, provide a URL or a screenshot that demonstrates the issue.
 
